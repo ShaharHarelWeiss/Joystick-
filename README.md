@@ -22,7 +22,7 @@ the structure of the application and a demo of the application.
 
 Enjoy!!!
 
-### The UML:
+Attached is an uml file of our project.
 
 
 
