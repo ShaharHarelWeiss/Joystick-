@@ -22,7 +22,7 @@ the structure of the application and a demo of the application.
 
 Enjoy!!!
 
-Attached is an uml file of our project [link](![uml](https://user-images.githubusercontent.com/73199918/123546206-518f9d80-d764-11eb-8015-d3ad60d3ae88.png)
+Attached is an uml file of our project ![uml](https://user-images.githubusercontent.com/73199918/123546206-518f9d80-d764-11eb-8015-d3ad60d3ae88.png)
 
 ## Authors:
 * Shahar Harel
