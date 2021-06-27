@@ -24,8 +24,6 @@ Enjoy!!!
 
 Attached is an uml file of our project.
 
-link to our video explaining [here](https://youtu.be/qwIGTnreLnA)
-
 ## Authors:
 * Shahar Harel
 * Efrat Naaman
