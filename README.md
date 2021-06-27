@@ -6,7 +6,7 @@ After the connection we can start the fly and control at the flying of the airpl
 and rudder.
 In our aplicattion we use MVVM architecture. 
 
-In this [link](https://youtu.be/qwIGTnreLnA) you can see a video that explains a bit about this architecture, 
+In this [link](https://youtu.be/qwIGTnreLnA) you can see a video that explains a bit about this architecture in our project, 
 the structure of the application and a demo of the application.
 
 ## Instructions:
