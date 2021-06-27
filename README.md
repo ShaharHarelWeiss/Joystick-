@@ -22,7 +22,9 @@ the structure of the application and a demo of the application.
 
 Enjoy!!!
 
-Attached is an uml file of our project ![uml](https://user-images.githubusercontent.com/73199918/123546206-518f9d80-d764-11eb-8015-d3ad60d3ae88.png)
+UML file of our project ![uml](https://user-images.githubusercontent.com/73199918/123546206-518f9d80-d764-11eb-8015-d3ad60d3ae88.png)
+Explanatory file on the classes in our code and a description of the MVVM architecture [Main Classes-MVVM.pdf](https://github.com/ShaharHarelWeiss/Joystick-/files/6721667/Main.Classes-MVVM.pdf)
+
 
 ## Authors:
 * Shahar Harel
