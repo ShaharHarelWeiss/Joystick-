@@ -24,6 +24,8 @@ Enjoy!!!
 
 Attached is an uml file of our project.
 
-Attached is a link to our video explaining the project: https://youtu.be/qwIGTnreLnA
+link to our video explaining [here](https://youtu.be/qwIGTnreLnA)
 
-
+## Authors:
+* Shahar Harel
+* Efrat Naaman
