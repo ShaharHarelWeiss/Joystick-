@@ -24,6 +24,5 @@ Enjoy!!!
 
 ### The UML:
 
-![image](![image](https://user-images.githubusercontent.com/73199918/123543310-8137a900-d756-11eb-9bc8-64b28bf741ea.png)
-)
+![image]()
 
