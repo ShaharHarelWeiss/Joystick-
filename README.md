@@ -23,6 +23,7 @@ the structure of the application and a demo of the application.
 Enjoy!!!
 
 Attached is an uml file of our project.
-https://youtu.be/qwIGTnreLnA
+
+Attached is a link to our video explaining the project: https://youtu.be/qwIGTnreLnA
 
 
